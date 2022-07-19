@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruturaj K
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently Android App Development
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me ruturaj1723@gmail.com
 
